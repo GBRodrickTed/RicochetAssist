@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RicochetAssist", "RicochetAssist\RicochetAssist.csproj", "{128F5857-FE39-43B0-9BB9-71D258A32957}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{128F5857-FE39-43B0-9BB9-71D258A32957}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{128F5857-FE39-43B0-9BB9-71D258A32957}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{128F5857-FE39-43B0-9BB9-71D258A32957}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{128F5857-FE39-43B0-9BB9-71D258A32957}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4539DB05-A33C-4A48-AC5C-E0B5411B8CC4}
+	EndGlobalSection
+EndGlobal
